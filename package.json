@@ -1,0 +1,36 @@
+{
+  "name": "student-portal-cvsu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "@heroicons/react": "^1.0.6",
+    "@iconify/react": "^5.0.2",
+    "clsx": "^2.1.1",
+    "flowbite": "^2.5.1",
+    "framer-motion": "^11.3.21",
+    "lucide": "^0.424.0",
+    "lucide-react": "^0.424.0",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "tailwind-merge": "^2.4.0",
+    "tamagui": "^1.108.2",
+    "v1": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7",
+    "postcss": "^8",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.1"
+  }
+}
